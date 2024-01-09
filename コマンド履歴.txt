@@ -1,0 +1,28 @@
+d-----        2024/01/08     23:58                kadai_004
+
+hallenge
+Initialized empty Git repository in C:/Users/ye_hd/Desktop/のぶこ/侍テラ 
+ge
+PS C:\Users\ye_hd\Desktop\のぶこ\侍テラコヤ教材\kadai_004\git_challenge>git add C:\Users\ye_hd\Desktop\のぶこ\侍テラコヤ教材\kadai_004\git_challenge/hello_world.txt
+[main (root-commit) 92cf2e2] 1回目コミット
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello_world.txt
+PS C:\Users\ye_hd\Desktop\のぶこ\侍テラコヤ教材\kadai_004\git_challenge>git add C:\Users\ye_hd\Desktop\のぶこ\侍テラコヤ教材\kadai_004\git_challenge/hello_world.txt
+PS C:\Users\ye_hd\Desktop\のぶこ\侍テラコヤ教材\kadai_004\git_challenge>git commit -m "2回目コミット：日本語訳を追記"
+[main 658130b] 2回目コミット：日本語訳を追記
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+PS C:\Users\ye_hd\Desktop\のぶこ\侍テラコヤ教材\kadai_004\git_challenge>git log
+commit 658130b02da1094f14677137b715038d1f25ea85 (HEAD -> main)
+Author: tarepai <topia.ka.no.reiwa2@gmail.com>
+Date:   Tue Jan 9 00:12:51 2024 +0900
+
+    2回目コミット：日本語訳を追記
+
+commit 92cf2e2ee3f662235d427dd1eeeb1db5166cb4db
+Author: tarepai <topia.ka.no.reiwa2@gmail.com>
+Date:   Tue Jan 9 00:10:40 2024 +0900
+
+    1回目コミット
+PS C:\Users\ye_hd\Desktop\のぶこ\侍テラコヤ教材\kadai_004\git_challenge>      
+
+
